@@ -1,24 +1,41 @@
-<h2 align="center">Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
-<h1 align="center">I'm Swarina Jaiswal</h1>
-<p align="center">I'm a sophomore pursuing my Bachelors in Computer Science and Engineering. I'm a Competitive Programmer and focused on building my Data Structure and Algorithms skills. I'm also working my way towards becoming a Full Stack Developer. </p>
+![My Post](https://user-images.githubusercontent.com/56193323/124739135-37f60f00-df37-11eb-9042-0decf68cac2a.gif)
+
+<br>
+
+<h1 align="center">Hey there! I'm Swarina Jaiswal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+<p align="center">An Inquisitive, enthusiastic Computer Science sophomore skilled in Full Stack Development with a stronghold on Data Structures and Algorithms. Working towards leveraging solid development skills into building useful products and user experiences. Proficient in C++, I'm also a Competitive Programmer and regularly give contests on Codeforces and Leetcode building up my problem solving skills. Exploring and working my way up, one step at a time! </p>
 
 <br>
 
 ## 🧐 About
 
-- 🔭 I’m currently learning **React**.
-- 🌱 I’m a core team team member of DSC JSS.
+- 🔭 I’m currently learning **ReactJs**.
 - 👨‍💻 I'm focused on DSA and Full Stack Development for now.
 - 🤝 I’m looking to collaborate on Django/React based projects.
+- 🌱 I’m a core team team member of DSC JSS.
 - 💬 Reach me at **swarinajaiswal@gmail.com**.
+- 🌏 Visit my website here - <a href="https://swarina.github.io/">**https://swarina.github.io/**</a>
 - ⚡ Fun fact: I write poems to put my thoughts into words.
+- ❓ Ask me about Harry Potter, music or poetry and it'll be fun!
 
 <br>
 
-## ⚡ Tech Stack
+## 💻 Tech Stack
 
-<p align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+<p align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+<br>
+
+## 💡 Languages Used
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarina&theme=react"/></p>
+
+<br>
+
+## ⚡ My Github Stats
+
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=swarina&theme=react&hide_border=true"/></p>
 
 <br>
 
