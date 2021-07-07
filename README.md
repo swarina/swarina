@@ -1,7 +1,5 @@
 ![My Post](https://user-images.githubusercontent.com/56193323/124739135-37f60f00-df37-11eb-9042-0decf68cac2a.gif)
 
-<br>
-
 <h1 align="center">Hey there! I'm Swarina Jaiswal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 <p align="center">An Inquisitive, enthusiastic Computer Science sophomore skilled in Full Stack Development with a stronghold on Data Structures and Algorithms. Working towards leveraging solid development skills into building useful products and user experiences. Proficient in C++, I'm also a Competitive Programmer and regularly give contests on Codeforces and Leetcode building up my problem solving skills. Exploring and working my way up, one step at a time! </p>
 
