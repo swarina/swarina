@@ -7,12 +7,11 @@
 
 ## 🧐 About
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" height="200px" />
 
 - 🔭 I’m currently learning **ReactJs**.
 - 👨‍💻 I'm focused on DSA and Full Stack Development for now.
-- 🤝 I’m looking to collaborate on Django/React based projects.
-- 🌱 I’m a core team team member of DSC JSS.
+- 🤝 I’m looking to collaborate on **Django/React** based projects.
 - 💬 Reach me at **swarinajaiswal@gmail.com**.
 - 🌏 Visit my website here - <a href="https://swarina.github.io/">**https://swarina.github.io/**</a>
 - ⚡ Fun fact: I write poems to put my thoughts into words.
