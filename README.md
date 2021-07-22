@@ -26,15 +26,11 @@
 
 <br>
 
-## 💡 Languages Used
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarina&theme=react"/></p>
-
-<br>
-
 ## ⚡ My Github Stats
-
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=swarina&theme=react&hide_border=true"/></p>
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=swarina&theme=react&hide_border=true" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarina&layout=compact&theme=react&hide_border=true" height="200"/>
+</div>
 
 <br>
 
