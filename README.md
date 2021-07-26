@@ -28,8 +28,8 @@
 
 ## ⚡ My Github Stats
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=swarina&theme=react&hide_border=true" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarina&layout=compact&theme=react&hide_border=true" height="200"/>
+<img height="190em" src="http://github-readme-streak-stats.herokuapp.com?user=swarina&theme=react&hide_border=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarina&layout=compact&theme=react&hide_border=true" />
 </div>
 
 <br>
