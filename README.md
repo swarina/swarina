@@ -9,9 +9,9 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" height="200px" />
 
-- 🔭 I’m currently learning and exploring the **Backend Architecture and services**.
+- 🔭 I’m currently deep-diving into **Backend Development**.
 - 👨‍💻 I'm focused on **DSA** and **Full Stack** Development for now.
-- 🤝 I’m looking to collaborate on React/Django-based projects and open to internships.
+- 🤝 I’m looking to collaborate on full stack projects and open to internships.
 - 💬 Reach me at **swarinajaiswal@gmail.com**.
 - 🌏 Visit my website here - <a href="http://swarina-jaiswal.netlify.app/">**Link**</a>
 - ⚡ Fun fact: I write poems to put my thoughts into words.
