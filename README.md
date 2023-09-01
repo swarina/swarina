@@ -1,7 +1,7 @@
 ![My Post](https://user-images.githubusercontent.com/56193323/125333952-74c36b00-e368-11eb-8253-4cc1a6d31f09.gif)
 
 <h1 align="center">Hey there! I'm Swarina Jaiswal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" width="30px"> </h1>
-<p align="center">An Inquisitive, enthusiastic Computer Science skilled in Full Stack Development with a stronghold on Data Structures and Algorithms. Working towards leveraging solid development skills into building useful products and user experiences. Proficient in C++ and Python, I'm also regularly practice and give contests on Leetcode building up my problem solving skills. Exploring and working my way up, one step at a time! </p>
+<p align="center">Passionate about blending tech and design to create exceptional user journeys. Let's innovate together! </p>
 
 <br>
 
@@ -9,11 +9,10 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380px" height="200px" />
 
-- 🔭 I’m currently deep-diving into **Backend Development**.
-- 👨‍💻 I'm focused on **DSA** and **Full Stack** Development for now.
-- 🤝 I’m looking to collaborate on full stack projects and open to internships.
+- 👨‍💻 I’m currently working as a Software Engineer at <a href="https://www.ukg.in/">**UKG**</a>
 - 💬 Reach me at **swarinajaiswal@gmail.com**.
 - 🌏 Visit my website here - <a href="http://swarina-jaiswal.netlify.app/">**Link**</a>
+- 🔭 On my journey to learn to play guitar.
 - ⚡ Fun fact: I write poems to put my thoughts into words.
 - ❓ Ask me about Harry Potter, music or poetry and it'll be fun!
 
