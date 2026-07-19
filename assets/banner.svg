@@ -1,0 +1,95 @@
+<svg viewBox="0 0 940 280" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Swarina Jaiswal">
+  <defs>
+    <radialGradient id="pg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#eafcff"/><stop offset="40%" stop-color="#3ee0ff"/>
+      <stop offset="100%" stop-color="#3ee0ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="g" x="-90%" y="-90%" width="280%" height="280%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1b2836"/></pattern>
+
+    <style>
+      .tag { font-family:ui-monospace,SFMono-Regular,Menlo,monospace; font-size:11px; letter-spacing:2px; fill:#5c7089; }
+
+      .edge{ stroke:#212f3e; stroke-width:1.4; fill:none; stroke-dasharray:130; stroke-dashoffset:130; }
+      .e1{ animation:d1 8s ease-in-out infinite; } .e2{ animation:d2 8s ease-in-out infinite; }
+      .e3{ animation:d3 8s ease-in-out infinite; } .e4{ animation:d4 8s ease-in-out infinite; }
+      .e5{ animation:d5 8s ease-in-out infinite; }
+      @keyframes d1{0%,8%{stroke-dashoffset:130;stroke:#212f3e}16%{stroke-dashoffset:0;stroke:#2f6a86}88%{stroke:#243a4a}94%{stroke-dashoffset:0;stroke:#212f3e}100%{stroke-dashoffset:130;stroke:#212f3e}}
+      @keyframes d2{0%,20%{stroke-dashoffset:130;stroke:#212f3e}30%{stroke-dashoffset:0;stroke:#2f6a86}88%{stroke:#243a4a}94%{stroke-dashoffset:0;stroke:#212f3e}100%{stroke-dashoffset:130;stroke:#212f3e}}
+      @keyframes d3{0%,32%{stroke-dashoffset:130;stroke:#212f3e}44%{stroke-dashoffset:0;stroke:#2f6a86}88%{stroke:#243a4a}94%{stroke-dashoffset:0;stroke:#212f3e}100%{stroke-dashoffset:130;stroke:#212f3e}}
+      @keyframes d4{0%,46%{stroke-dashoffset:130;stroke:#212f3e}58%{stroke-dashoffset:0;stroke:#2f6a86}88%{stroke:#243a4a}94%{stroke-dashoffset:0;stroke:#212f3e}100%{stroke-dashoffset:130;stroke:#212f3e}}
+      @keyframes d5{0%,60%{stroke-dashoffset:130;stroke:#212f3e}72%{stroke-dashoffset:0;stroke:#caa24a}88%{stroke:#6a5326}94%{stroke-dashoffset:0;stroke:#212f3e}100%{stroke-dashoffset:130;stroke:#212f3e}}
+
+      .n{ fill:#18222e; stroke:#2a3a4d; stroke-width:1.2; }
+      .l0{ animation:k0 8s ease-in-out infinite; } .l1{ animation:k1 8s ease-in-out infinite; }
+      .l2{ animation:k2 8s ease-in-out infinite; } .l3{ animation:k3 8s ease-in-out infinite; }
+      .l4{ animation:k4 8s ease-in-out infinite; } .l5{ animation:k5 8s ease-in-out infinite; }
+      @keyframes k0{0%,2%{fill:#18222e}5%{fill:#bff3ff}11%{fill:#234a60}90%{fill:#234a60}95%{fill:#18222e}100%{fill:#18222e}}
+      @keyframes k1{0%,12%{fill:#18222e}18%{fill:#bff3ff}24%{fill:#234a60}90%{fill:#234a60}95%{fill:#18222e}100%{fill:#18222e}}
+      @keyframes k2{0%,26%{fill:#18222e}32%{fill:#bff3ff}38%{fill:#234a60}90%{fill:#234a60}95%{fill:#18222e}100%{fill:#18222e}}
+      @keyframes k3{0%,40%{fill:#18222e}46%{fill:#bff3ff}52%{fill:#234a60}90%{fill:#234a60}95%{fill:#18222e}100%{fill:#18222e}}
+      @keyframes k4{0%,54%{fill:#18222e}60%{fill:#bff3ff}66%{fill:#234a60}90%{fill:#234a60}95%{fill:#18222e}100%{fill:#18222e}}
+      @keyframes k5{0%,70%{fill:#18222e}76%{fill:#ffd9a0}82%{fill:#ffb454}90%{fill:#7a5a2c}95%{fill:#18222e}100%{fill:#18222e}}
+
+      .halo{ opacity:0; filter:url(#g); }
+      .hl0{ fill:#3ee0ff; animation:h0 8s ease-in-out infinite; } .hl1{ fill:#3ee0ff; animation:h1 8s ease-in-out infinite; }
+      .hl2{ fill:#3ee0ff; animation:h2 8s ease-in-out infinite; } .hl3{ fill:#3ee0ff; animation:h3 8s ease-in-out infinite; }
+      .hl4{ fill:#3ee0ff; animation:h4 8s ease-in-out infinite; } .hl5{ fill:#ffb454; animation:h5 8s ease-in-out infinite; }
+      @keyframes h0{0%,3%{opacity:0}5%{opacity:.95}12%{opacity:.12}90%{opacity:.12}95%,100%{opacity:0}}
+      @keyframes h1{0%,15%{opacity:0}18%{opacity:.95}25%{opacity:.12}90%{opacity:.12}95%,100%{opacity:0}}
+      @keyframes h2{0%,29%{opacity:0}32%{opacity:.95}39%{opacity:.12}90%{opacity:.12}95%,100%{opacity:0}}
+      @keyframes h3{0%,43%{opacity:0}46%{opacity:.95}53%{opacity:.12}90%{opacity:.12}95%,100%{opacity:0}}
+      @keyframes h4{0%,57%{opacity:0}60%{opacity:.95}67%{opacity:.12}90%{opacity:.12}95%,100%{opacity:0}}
+      @keyframes h5{0%,73%{opacity:0}78%{opacity:1}86%{opacity:.5}90%{opacity:.3}95%,100%{opacity:0}}
+
+      .inp{ fill:url(#pg); opacity:0; animation:inA 8s ease-in-out infinite; }
+      @keyframes inA{0%{transform:translateX(-40px);opacity:0}2%{opacity:.9}6%{transform:translateX(0);opacity:.9}9%{opacity:0}100%{opacity:0}}
+
+      .ring{ fill:none; stroke:#ffb454; stroke-width:2; opacity:0; transform-box:fill-box; transform-origin:center; }
+      .ringA{ animation:rg 8s ease-out infinite; }
+      @keyframes rg{0%,76%{opacity:0;transform:scale(.3)}80%{opacity:.7}92%{opacity:0;transform:scale(3.4)}100%{opacity:0}}
+
+      @media (prefers-reduced-motion: reduce){
+        .edge,.n,.halo,.inp,.ring{ animation:none !important; }
+        .edge{ stroke-dashoffset:0; stroke:#2c4152; }
+        .l0,.l1,.l2,.l3,.l4{ fill:#234a60 !important; } .l5{ fill:#ffb454 !important; }
+      }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="940" height="280" rx="14" fill="#0a0e14"/>
+  <rect x="0" y="0" width="940" height="280" rx="14" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="939" height="279" rx="14" fill="none" stroke="#1a2634"/>
+
+  <text x="70" y="250" text-anchor="middle" class="tag">INPUT</text>
+  <text x="830" y="250" text-anchor="middle" class="tag">RESOLVED</text>
+
+  <g>
+    <path class="edge e1" d="M70,150 L206,100"/><path class="edge e1" d="M70,150 L206,200"/>
+    <path class="edge e2" d="M206,100 L352,66"/><path class="edge e2" d="M206,100 L352,150"/>
+    <path class="edge e2" d="M206,200 L352,150"/><path class="edge e2" d="M206,200 L352,220"/>
+    <path class="edge e3" d="M352,66 L500,108"/><path class="edge e3" d="M352,150 L500,108"/>
+    <path class="edge e3" d="M352,150 L500,200"/><path class="edge e3" d="M352,220 L500,200"/>
+    <path class="edge e4" d="M500,108 L652,86"/><path class="edge e4" d="M500,108 L652,172"/>
+    <path class="edge e4" d="M500,200 L652,172"/>
+    <path class="edge e5" d="M652,86 L830,150"/><path class="edge e5" d="M652,172 L830,150"/>
+  </g>
+
+  <circle class="halo hl0" cx="70" cy="150" r="15"/><circle class="n l0" cx="70" cy="150" r="7"/>
+  <circle class="halo hl1" cx="206" cy="100" r="14"/><circle class="n l1" cx="206" cy="100" r="6"/>
+  <circle class="halo hl1" cx="206" cy="200" r="14"/><circle class="n l1" cx="206" cy="200" r="6"/>
+  <circle class="halo hl2" cx="352" cy="66" r="14"/><circle class="n l2" cx="352" cy="66" r="6"/>
+  <circle class="halo hl2" cx="352" cy="150" r="14"/><circle class="n l2" cx="352" cy="150" r="6"/>
+  <circle class="halo hl2" cx="352" cy="220" r="14"/><circle class="n l2" cx="352" cy="220" r="6"/>
+  <circle class="halo hl3" cx="500" cy="108" r="14"/><circle class="n l3" cx="500" cy="108" r="6"/>
+  <circle class="halo hl3" cx="500" cy="200" r="14"/><circle class="n l3" cx="500" cy="200" r="6"/>
+  <circle class="halo hl4" cx="652" cy="86" r="14"/><circle class="n l4" cx="652" cy="86" r="6"/>
+  <circle class="halo hl4" cx="652" cy="172" r="14"/><circle class="n l4" cx="652" cy="172" r="6"/>
+  <g><circle class="ring ringA" cx="830" cy="150" r="9"/></g>
+  <circle class="halo hl5" cx="830" cy="150" r="17"/><circle class="n l5" cx="830" cy="150" r="8.5"/>
+
+  <circle class="inp" cx="70" cy="150" r="11"/>
+</svg>
